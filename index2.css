@@ -1,0 +1,107 @@
+*{
+    font-family: 'Ysabeau SC', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+
+body {
+ 
+    background: #B0E0E6;
+}
+.beggin h3{
+    color: white;
+    margin-left: 55rem;
+   margin-top: -25rem;
+    font-size:5vh;
+    
+}
+.beggin ul{
+    color: #36393f;
+    margin-left: 55rem;
+    margin-top: 2%;
+    font-size: 3vh;
+}
+.navbar{
+    background-color: #36393f;
+    display: flex;
+   justify-content: space-between;
+}
+.flecha{
+    width: 21rem;
+  
+
+}
+
+.gym{
+    margin-top: 15rem;
+   
+}
+.gym h1{
+    color: #36393f;
+    font-size: 6vh;
+    margin-left: 5rem;
+
+    background-color: white;
+}
+.academ{
+    color: #36393f;
+    margin-top: 5%;
+    font-size: 5vh;
+    margin-left: 15%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.bodysul{
+    width: 31rem;
+    border-radius: 2%;
+    margin-left: 9%;
+    margin-top: 2%;
+    height: 21rem;
+}
+.botao{
+    justify-content: space-between;
+    margin-left: 20%;
+    border-radius: 20%;
+   
+    
+}
+button{
+    width: 200px;
+    font-size: 3vh;
+    border-radius: 5%;
+ margin-right: 30%;
+ margin-bottom: 2%;
+  
+}
+.navbar img{
+    width: 35px;
+    margin-top: 2vh;
+}
+.usina{
+    width: 31rem;
+ 
+    margin-left: 8%;
+    margin-top: 2%;
+}
+.mulher{
+    height: 25rem;
+   
+    width: 50rem;
+    margin-top: 10%;
+   
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+}
+
+.navbar h1{
+    color: white;
+    font-size: 2.5rem;
+}
+.navbar a{
+color: white;
+font-size: 2rem;
+margin-right: 2%;
+}
